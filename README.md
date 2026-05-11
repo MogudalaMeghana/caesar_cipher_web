@@ -99,3 +99,12 @@ function caesarCipher(text, shift){
 
     return result;
 }
+## Project Purpose
+This project was created to understand:
+- Basic Cryptography
+- Encryption & Decryption
+- Web Development Concepts
+- JavaScript Logic
+
+## Author
+Meghana Mogudala
